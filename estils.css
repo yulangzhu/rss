@@ -1,0 +1,64 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/Other/CascadeStyleSheet.css to edit this template
+*/
+/* 
+    Created on : 19 ene 2023, 16:00:34
+    Author     : yulan
+*/
+
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f2f2f2;
+}
+
+.center {
+  text-align: center;
+}
+
+#header {
+  padding: 10px 0;
+}
+
+#header h1 {
+  font-size: 36px;
+  font-weight: bold;
+}
+
+#main {
+  padding: 40px 0;
+}
+
+#main img {
+  max-width: 250px;
+  width: 100%;
+  margin: 0 auto;
+  display: block;
+}
+
+#footer {
+  background-color: #333333;
+  color: #ffffff;
+  padding: 20px;
+}
+
+#footer p {
+  font-size: 12px;
+  margin: 0;
+}
+
+.rss-button {
+  display: inline-block;
+  padding: 10px 20px;
+  background-color: #333333;
+  color: #ffffff;
+  text-align: center;
+  text-decoration: none;
+  font-size: 14px;
+}
+
+.rss-button img {
+  vertical-align: middle;
+  margin-right: 10px;
+  width: 50px;
+}
