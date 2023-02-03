@@ -47,5 +47,12 @@
             <guid isPermaLink="false">paro-2023</guid>
             <enclosure url="http://127.0.0.1/RSS/paro.png" length="37000" type="image/png"/>
         </item>
+        <item>
+            <title>Jorge Lorenzo y el fin de su "pesadilla" con Hacienda: "Un auténtico escarnio"</title>
+            <link>https://www.elmundo.es/deportes/motociclismo/2023/01/09/63bc6295fdddff4aa48b4596.html</link>
+            <description><![CDATA[El Tribunal Económico Administrativo Regional de Cataluña (TEAR) ha dado la razón al ex piloto frente a la cantidad que le reclamaba la Agencia Tributaria por el IRPF del año 2016<img src="http://localhost/RSS/JorgeLorenzoLugano.jpg" alt="Jorge Lorenzo vs. Hacienda"/>]]></description>
+            <guid isPermaLink="false">jlorenzo-2023</guid>
+            <enclosure url="http://127.0.0.1/RSS/lorenzo.png" length="43000" type="image/png"/>
+        </item>
     </channel>
 </rss>
