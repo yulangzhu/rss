@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+    <channel>
+        <title>Grans Èxits</title>
+        <link>http://localhost/RSS/rss.xml</link>
+        <description>Últimes notícies sucoses...</description>
+        <category>Nacional</category>
+        <copyright>Copyright 2023</copyright>
+        <image>
+            <url>http://localhost/RSS/falcon.png</url>
+            <title>Grans Èxits</title>
+            <link>http://localhost/RSS/rss.xml</link>
+        </image>
+        <language>ca</language>
+        <item>
+            <title>Díaz pide que los bancos congelen las hipotecas y moderen sus beneficios tras los resultados récord de BBVA</title>
+            <link>https://www.elmundo.es/economia/macroeconomia/2023/02/01/63da4fe021efa0f9488b4592.html</link>
+            <description>La entidad registró en 2022 un beneficio récord de 6.420 millones y repartirá el dividendo en efectivo más alto en 14 años</description>
+            <guid isPermaLink="false">diaz-2023</guid>
+            <enclosure url="http://127.0.0.1/RSS/layoli.png" length="29000" type="image/png"/>
+        </item>
+        <item>
+            <title>El Gobierno da por rotos los puentes con los empresarios e impone un alza del Salario Mínimo del 8%</title>
+            <link>https://www.elmundo.es/economia/macroeconomia/2023/02/01/63d9414621efa0b0228b4582.html</link>
+            <description>Lo negocia con los sindicatos, UGT y CCOO, pero no con la CEOE y Cepyme que decidieron no acudir a la reunión</description>
+            <guid isPermaLink="false">smi-2023</guid>
+            <enclosure url="http://127.0.0.1/RSS/layoli2.png" length="27000" type="image/png"/>
+        </item>
+        <item>
+            <title>Igualdad y Justicia negocian 'in extremis' una reforma de la ley del 'solo sí es sí'</title>
+            <link>https://www.20minutos.es/noticia/5097793/0/igualdad-y-justicia-siguen-alejados-de-un-acuerdo-para-reformar-la-ley-del-solo-si-es-si/</link>
+            <description>Las rebajas de condenas a agresores sexuales continuarán pese a la reforma de la ley del 'solo sí es sí'</description>
+            <guid isPermaLink="false">solosiessi-2023</guid>
+            <enclosure url="http://127.0.0.1/RSS/montero.png" length="55000" type="image/png"/>
+        </item>
+        <item>
+            <title>La Seguridad Social ha cobrado 220 euros de más por error en la cuota de autónomos a 8.000 autónomos</title>
+            <link>https://www.newtral.es/error-autonomos-cobro-error-seguridad-social/20230202/</link>
+            <description>Se cobró por error la cuota mínima (unos 300 euros) en vez de los 80 euros de la tarifa plana a los nuevos autónomos a los que les reintegrará el dinero</description>
+            <guid isPermaLink="false">ss-2023</guid>
+            <enclosure url="http://127.0.0.1/RSS/escriva.png" length="33000" type="image/png"/>
+        </item>
+        <item>
+            <title>El paro sube un 75% más que hace un año con 70.744 desempleados más</title>
+            <link>https://www.larazon.es/economia/20230202/dqyydxvoibdz3eqtgvkbtltphi.html</link>
+            <description>En enero se destruyó empleo, con 215.047 ocupados menos de afiliación media</description>
+            <guid isPermaLink="false">paro-2023</guid>
+            <enclosure url="http://127.0.0.1/RSS/paro.png" length="37000" type="image/png"/>
+        </item>
+    </channel>
+</rss>
