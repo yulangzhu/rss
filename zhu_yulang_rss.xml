@@ -2,7 +2,7 @@
 <!--<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">-->
 <rss version="2.0">
     <channel>
-        <title>Grans Èxits</title>
+        <title>Grans Èxits </title>
         <link>https://raw.githubusercontent.com/yulangzhu/rss/main/index.xhtml</link>
         <description>Últimes notícies sucoses...</description>
         <category>Nacional</category>
